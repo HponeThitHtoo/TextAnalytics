@@ -39,3 +39,9 @@ asdfsfd
 - [ ] Task 1
 + [ ] Task 2
 * [ ] Task 3
+
+Android | iOS | Windows
+:------- | :----: | ---:
+Medium App for Android | Medium App for iOS | Medium App for Windows
+sdfdsafdsf dsfasdfsadfds fdfdf dfdfdfdfd | sdfdsafdsf dsfasdfsadfds fdfdf fdfdfddfdf | sdfdsafdsf dsfasdfsadfds fdfdf fdfdfdfdf
+[Play Store](https://play.google.com/store/apps/details?id=com.medium.reader) | [App Store](https://apps.apple.com/us/app/medium/id828256236) | [Just Web, LoL](https://medium.com)
