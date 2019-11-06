@@ -46,3 +46,7 @@ Medium App for Android | Medium App for iOS | Medium App for Windows
 sdfdsafdsf dsfasdfsadfds fdfdf dfdfdfdfd | sdfdsafdsf dsfasdfsadfds fdfdf fdfdfddfdf | sdfdsafdsf dsfasdfsadfds fdfdf fdfdfdfdf
 [Play Store](https://play.google.com/store/apps/details?id=com.medium.reader) | [App Store](https://apps.apple.com/us/app/medium/id828256236) | [Just Web, LoL](https://medium.com)
 ![](android.png) | ![](ios.png "Some Text") |
+
+Click on the image below to watch the video:
+
+[![](https://img.youtube.com/vi/3bt7u5rV__Y/maxresdefault.jpg)](https://youtu.be/3bt7u5rV__Y)
